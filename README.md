@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ngelecheikiprop
+- 👋 Hi, I’m David Ngelechei
 - 👀 I’m interested in Iot and AI
 - 🌱 I’m currently learning java spring boot
 - 💞️ I’m looking to collaborate on innvotive systems on rental management systems
